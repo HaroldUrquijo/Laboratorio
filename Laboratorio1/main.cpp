@@ -3,6 +3,7 @@ Practica 1
 Harold Jose Urquijo Duran
 cc. 1193093197
 */
+
 #include <iostream>
 
 
@@ -145,7 +146,7 @@ int main()
         horas_duracion = duracion / 100;
         minutos_duracion = duracion % 100;
 
-        // para Calcular la hora resultante
+           // para Calcular la hora resultante
         horas_totales = hora_original + horas_duracion;
         minutos_totales = minutos_original + minutos_duracion;
 
