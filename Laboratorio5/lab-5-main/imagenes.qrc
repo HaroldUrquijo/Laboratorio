@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/iconfinder_Pacman_381603.png</file>
+        <file>imagenes/pacman_2_4.png</file>
+        <file>imagenes/about.svg</file>
+        <file>imagenes/enemigo.png</file>
+    </qresource>
+</RCC>
